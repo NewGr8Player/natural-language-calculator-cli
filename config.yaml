@@ -1,0 +1,7 @@
+log:
+  time-stamp-format: "2006-01-02T15:04:05+08"
+  field-name-time: "time-xx"
+  field-name-level: "level"
+  field-name-msg: "msg"
+  field-name-source: "src"
+  log-level: "xx"
